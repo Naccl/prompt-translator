@@ -33,7 +33,7 @@ MIT
 
 ## Credits
 
-原始 danbooru tag 中文翻译数据 `danbooru-0-zh.csv ` 来自：[https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/discussions/23](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/discussions/23)
+原始 danbooru tag 中文翻译数据 `danbooru-0-zh.csv` 来自：[https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/discussions/23](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete/discussions/23)
 
 Stable Diffusion扩展：[sd-prompt-translator](https://github.com/studyzy/sd-prompt-translator)
 
